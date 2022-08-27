@@ -1,3 +1,1 @@
-NAME="Jayavenkatasai"
-echo "${NAME}"
-echo= "yum install nginx -y"
+yum install nginx -y
