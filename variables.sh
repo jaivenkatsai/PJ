@@ -1,2 +1,2 @@
-yum install nginx -y
-amazon-linux-extras install nginx1
+NAME="Srilatha"
+echo "jeevans lover name is ${NAME}"
