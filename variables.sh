@@ -1,0 +1,2 @@
+NAME="Jayavenkatasai"
+echo "${NAME}"
